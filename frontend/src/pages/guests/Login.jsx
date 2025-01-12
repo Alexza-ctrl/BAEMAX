@@ -153,7 +153,7 @@ function Login() {
         </form>
         <div className="grid grid-cols-3 justify-center items-center">
           <hr className="bg-gray-800 h-[2px] border-0"></hr>
-          <p className="text-center text-white text-pre-title">OR</p>
+          <p className="text-center text-gray-800 text-pre-title">OR</p>
           <hr className="bg-gray-800 h-[2px] border-0"></hr>
         </div>
         <div onClick={loginWithGoogleAccount} className="secondary-btn text-gray-800 border-gray-800">
